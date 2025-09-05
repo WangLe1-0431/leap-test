@@ -1,4 +1,3 @@
-# simple_demo.py
 import time
 import leap
 
