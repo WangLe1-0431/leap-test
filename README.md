@@ -1,6 +1,6 @@
 # 这是一个用于学习leapmotion的测试项目
 
-# Leap Motion 手部追踪示例文档
+# Leap Motion 手部追踪示例文档 By WangLe1_
 
 本文档说明如何运行本仓库中的示例脚本，并展示数据含义与常见问题处理。文件使用 UTF-8 编码与标准 Markdown 语法，确保在 GitHub、VS Code 及常见编辑器中正确显示。
 
