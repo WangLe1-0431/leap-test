@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+"""
+Author: WangLe1_
+Email: leiw5385@gmail.com
+Date: 2025-09-25
+"""
 """
 手指节点监听 demo（UTF-8，ASCII 标识符，中文输出）
 
