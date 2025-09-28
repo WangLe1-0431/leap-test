@@ -61,5 +61,3 @@ python fingers.py
 - `simple.py` / `test.py`：简化/打印示例。
 
 ---
-
-如需把本文档改为英文版、添加截图/流程图、或发布到 GitHub Pages，请告诉我，我可以继续完善格式与内容。
